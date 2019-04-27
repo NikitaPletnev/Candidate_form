@@ -5,6 +5,11 @@ body{
 
     background: #F7F5FA;
 }
+@font-face {
+    font-family: DIN Pro; 
+    src: url(fonts/DINPro.eot); 
+    src: local(DINPro), url(fonts/DINPro.ttf); 
+   }
 #header {
 	position: absolute;
     width: 1440px;
